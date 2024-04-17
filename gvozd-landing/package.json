@@ -13,7 +13,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://ваше-имя-пользователя.github.io/название-репозитория",
+  "homepage": "https://ValeriiKo.github.io/GvozdLanding",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
