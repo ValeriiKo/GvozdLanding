@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GvozdLanding/static/css/main.005b305f.css",
-    "main.js": "/GvozdLanding/static/js/main.3a924e18.js",
-    "static/js/453.edea16bc.chunk.js": "/GvozdLanding/static/js/453.edea16bc.chunk.js",
-    "index.html": "/GvozdLanding/index.html",
-    "main.005b305f.css.map": "/GvozdLanding/static/css/main.005b305f.css.map",
-    "main.3a924e18.js.map": "/GvozdLanding/static/js/main.3a924e18.js.map",
-    "453.edea16bc.chunk.js.map": "/GvozdLanding/static/js/453.edea16bc.chunk.js.map"
+    "main.css": "/static/css/main.e4bb279b.css",
+    "main.js": "/static/js/main.bbefc607.js",
+    "static/js/453.edea16bc.chunk.js": "/static/js/453.edea16bc.chunk.js",
+    "index.html": "/index.html",
+    "main.e4bb279b.css.map": "/static/css/main.e4bb279b.css.map",
+    "main.bbefc607.js.map": "/static/js/main.bbefc607.js.map",
+    "453.edea16bc.chunk.js.map": "/static/js/453.edea16bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.005b305f.css",
-    "static/js/main.3a924e18.js"
+    "static/css/main.e4bb279b.css",
+    "static/js/main.bbefc607.js"
   ]
 }
